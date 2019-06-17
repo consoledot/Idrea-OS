@@ -1,0 +1,9 @@
+.topbar {
+    display: flex;
+    flex-basis: auto;
+    align-items: center;
+    background-color: white;
+    box-shadow: 11px 23px 82px -35px rgba(0, 0, 0, 0.28);
+    position: fixed;
+    width: 100%;
+}

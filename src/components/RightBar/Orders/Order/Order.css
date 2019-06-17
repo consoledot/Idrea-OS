@@ -1,0 +1,25 @@
+.order {
+
+    background-color: white;
+    box-shadow: 11px 23px 82px -35px rgba(0, 0, 0, 0.28);
+    padding: 10px;
+
+
+}
+
+.num-of-order {
+    color: rgba(0, 0, 0, 0.4)
+}
+
+.price {
+    font-size: 20px;
+}
+
+.percent {
+    color: red;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}

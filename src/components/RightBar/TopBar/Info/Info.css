@@ -1,0 +1,19 @@
+.info {
+    display: flex;
+    width: 20%;
+    align-items: center;
+
+}
+
+.info>* {
+    padding-right: 10px;
+}
+
+.info h3 {
+    padding: 0 10px;
+    color: gray;
+}
+
+.info i {
+    color: gainsboro;
+}

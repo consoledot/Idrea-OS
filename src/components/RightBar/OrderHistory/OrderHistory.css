@@ -1,0 +1,65 @@
+.order-history {
+    margin: 50px auto;
+    width: 90%;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 11px 23px 82px -35px rgba(0, 0, 0, 0.28);
+
+}
+
+.order-history div {
+    overflow-x: auto;
+}
+
+.table-head {
+    background-color: rgba(0, 0, 0, 0.09);
+    color: rgba(0, 0, 0, 0.5);
+    height: 30px;
+}
+
+table {
+    border: 1px solid black;
+    border: none;
+
+    width: 100%;
+
+}
+
+td,
+th {
+    margin: 150px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+    text-align: center;
+    height: 50px;
+
+}
+
+tr {
+    padding-top: 20px;
+    padding-right: 40px;
+}
+
+.status {
+    border-radius: 50px;
+    height: max-content;
+    color: white;
+    padding: 3px;
+    text-transform: capitalize;
+}
+
+.description {
+    color: blue;
+
+}
+
+.abandoned {
+    background-color: red;
+}
+
+.completed {
+    background-color: green;
+}
+
+.intrasit {
+    background-color: blue;
+}

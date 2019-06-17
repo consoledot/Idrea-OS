@@ -1,0 +1,20 @@
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+nav {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+i {
+    margin-right: 20px;
+}

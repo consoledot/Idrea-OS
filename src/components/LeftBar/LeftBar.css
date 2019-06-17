@@ -1,0 +1,14 @@
+.leftbar {
+
+    height: 100vh;
+
+    background-color: blue;
+    color: white;
+
+}
+
+@media (max-width:1200px) {
+    .leftbar {
+        display: none;
+    }
+}

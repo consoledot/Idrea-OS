@@ -1,0 +1,35 @@
+.orders {
+    width: 95%;
+    padding-top: 80px;
+    margin: 0 auto;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+.header h3 {
+    color: #9292f9;
+}
+
+.date {
+    display: flex;
+    align-items: center;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid blue;
+    padding: 0 20px;
+
+}
+
+.orders-list {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+}

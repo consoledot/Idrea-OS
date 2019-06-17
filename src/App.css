@@ -1,0 +1,11 @@
+.App {
+    display: grid;
+    grid-template-columns: 15% 85%;
+
+}
+
+@media (max-width:1200px) {
+    .App {
+        display: block;
+    }
+}
